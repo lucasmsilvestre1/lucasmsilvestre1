@@ -1,16 +1,44 @@
-## Hi there 👋
+- 👋 Hi, I’m Lucas
+- 👀 I’m interested in new techs, like IA/LLM and some Quantum computing.
+- 🌱 I’m currently working with IA and creating new solutions for the financial market.
+- 💞️ I’m looking to collaborate on web design.
+- 📫 How to reach me: lucasmsilvestre1@gmail.com
 
-<!--
-**lucasmsilvestre1/lucasmsilvestre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Information Systems bachelor, with 8+ years in financial market and 10+ years developing and solving problems with technology.
 
-Here are some ideas to get you started:
+Main knowledges
+- Pandas
+- Scikit-learn
+- matplotlib
+- Seaborn
+- Facebook Prophet
+- Bloomberg terminal
+- tensorflow
+- SQL
+- packaging (python)
+- Docker
+- ML Ops
+- Streamlit
+- Heroku
+- GCP (Google Cloud)
+- FastAPI
+- Git / Github
+- Jupyter lab/notebook
+- Excel
+- VBA
+- Selenium (Chromedriver)
+- APIs (create and consume)
+- Web scraping
+- Pipeline for machine learning models
+- CNN, RNN, Dense, K Means, linear and logistic regressions, MSE, fine tuning models (gridsearch and randomsearch)
+- Kaggle
+- Financial topics
+- React Native (frontend with AWS Amplify validation)
+- Langchain
+- ChatGPT - GPTs
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+atifumacaxi/atifumacaxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
